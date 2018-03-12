@@ -1,6 +1,6 @@
 <template>
   <div class="wiring-diagram">
-    <!-- 我是接线图界面 -->
+    <!-- 我是接线图界面sadas -->
   </div>
 </template>
 
